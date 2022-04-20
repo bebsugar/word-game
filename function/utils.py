@@ -1,4 +1,4 @@
-from db.db import cursor, mydb
+from db.database import cursor, mydb
 
 
 def get_random_word():
